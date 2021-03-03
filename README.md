@@ -1,4 +1,7 @@
-# Hola, soy Naaidrv 👋
+# Hola, soy Naaidrv 😄
+
+### creating something new ... 💻
+
 
 <!--
 **Naaidrv/Naaidrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
