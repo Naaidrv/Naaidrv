@@ -1,6 +1,6 @@
 # Hola, soy NaaidRV 😄
 
-### creating something new ... 💻
+### Estoy aprendiendo algo nuevo ... 💻
 
 
 <!--
