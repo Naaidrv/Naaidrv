@@ -20,9 +20,12 @@ I am a UI/UX Designer and Frontend Programmer curious to learn in the world of w
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="CSS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node JS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="45" height="45"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
 </p>
 
 <h2>🛠 Tools: </h2>
@@ -34,13 +37,22 @@ I am a UI/UX Designer and Frontend Programmer curious to learn in the world of w
 <img src="https://user-images.githubusercontent.com/42756212/188987078-d3398c9a-547b-4cae-aade-d782962c8547.png" alt="After Effects" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/42756212/188986881-499479fc-ab6a-4454-9d51-2b376ddf33d6.png" alt="Adobe XD" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/42756212/188986413-16324661-3e7b-4c9d-9c6b-a967870e16e6.png" alt="Adobe Photoshop" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/42756212/188989570-71e26ee1-2f87-43f2-af1f-4f02448b94d4.png" alt="SQL Server" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Apps Script" width="45" height="45"/>oogle Apps Script
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-<img src="https://user-images.githubusercontent.com/42756212/188992124-4e2ec695-9e07-4ae2-a340-d7a913705256.png" width="45" height="55"/>
+<img src="https://user-images.githubusercontent.com/42756212/188992124-4e2ec695-9e07-4ae2-a340-d7a913705256.png" alt="Firebase" width="45" height="55"/>
 </p>
 
-
+<h2>🧐 To learn: </h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.JS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="45" height="45"/>
+</p>
 
 <!--
 # Heey! 😄
