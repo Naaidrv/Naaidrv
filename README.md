@@ -2,7 +2,7 @@
 
 <h1>🙋‍♂️ About me 🙋‍♂️</h1>
 
-I am a UI/UX Designer and Frontend Programmer curious to learn in the world of web development. I love learning new technologies and keeping up with the latest trends in design. 😁
+I am a UI/UX Designer and Frontend Developer curious to learn in the world of web development. I love learning new technologies and keeping up with the latest trends in design. 😁
 
 <br>
 
