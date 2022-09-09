@@ -54,6 +54,10 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="45" height="45"/>
 </p>
 
+<h2>🎧 Let's play some music: </h2>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 # Heey! 😄
 
