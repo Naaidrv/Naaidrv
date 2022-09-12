@@ -10,7 +10,7 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 * ⚡ Fun fact: If I were a dinosaur, I would be a Tragaraptor 🌮🦖.
 * 📬 Do you want to collaborate with me: <a href="">naaidvelazquez@gmail.com</a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaidrv&layout=compact)](https://github.com/Naaidrv/github-readme-stats)
 
 <h2>💻 Languages: </h2>
 <p align="left">
