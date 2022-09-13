@@ -11,6 +11,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&family=Source+Sans+Pro:wght@400;600&display=swap" rel="stylesheet"> 
     <script src="https://kit.fontawesome.com/a1b7114887.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link rel="shortcut icon" href="img/nrv.ico">
     <title>NaaidRV</title>
 </head>
@@ -91,47 +93,60 @@
 
         <!--Bloque de trabajos-->
         <div class="container-md text-center">
-          <div class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col">
-              <div class="card h-100">
-                <img src="/img/proy1.JPG" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">PC Service & Restore</h5>
-                  <p class="card-text">Diseño del hosting y login para un café internet, dandole al usuario la información de costo por tiempo.</p>
+          <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="/img/proy1.JPG" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">PC Service & Restore</h5>
+                      <p class="card-text">Diseño del hosting y login para un café internet, dandole al usuario la información de costo por tiempo.</p>
+                    </div>
+                    <!--<div class="card-footer">
+                      <small class="text-muted">Last updated 3 mins ago</small>
+                    </div>-->
+                  </div>
                 </div>
-                <!--<div class="card-footer">
-                  <small class="text-muted">Last updated 3 mins ago</small>
-                </div>-->
               </div>
-            </div>
-            <div class="col">
-              <div class="card h-100">
-                <img src="/img/proy2.JPG" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Consultorio Médico Pediatrico</h5>
-                  <p class="card-text">Página para consultorio pediátrico, agilizando el registro de consultas, horarios y especializaciones.</p>
-                </div>
 
-              </div>
-            </div>
-            <div class="col">
-              <div class="card h-100">
-                <img src="/img/proy3.gif" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Video - (ADDSWN)</h5>
-                  <p class="card-text">Vídeo para estudiantes del diplomado <strong>"Análisis, diseño y desarrollo de sitios web en los negocios"</strong> de la FESC.</p>
+              <div class="swiper-slide">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="/img/proy2.JPG" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Consultorio Médico Pediatrico</h5>
+                      <p class="card-text">Página para consultorio pediátrico, agilizando el registro de consultas, horarios y especializaciones.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
-            </div>
-            <div class="col">
-              <div class="card h-100">
-                <img src="/img/proy4.gif" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Video - Ciudad Virtual</h5>
-                  <p class="card-text">Vídeo 8vo. Congreso de Informática de la FESC 
-                    se dió a conocer<strong> "Ciudad Virtual"</strong> plataforma para la comunidad UNAM.</p>
+
+              <div class="swiper-slide">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="/img/proy3.gif" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Video - (ADDSWN)</h5>
+                      <p class="card-text">Vídeo para estudiantes del diplomado <strong>"Análisis, diseño y desarrollo de sitios web en los negocios"</strong> de la FESC.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
+
+              <div class="swiper-slide">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="/img/proy4.gif" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Video - Ciudad Virtual</h5>
+                      <p class="card-text">Vídeo 8vo. Congreso de Informática de la FESC 
+                        se dió a conocer<strong> "Ciudad Virtual"</strong> plataforma para la comunidad UNAM.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
@@ -159,5 +174,15 @@
         <!--Script de cambio Light-theme/Dark-theme-->
         <!--<i class="fas fa-moon"></i>-->
     <script src="js/App.js"></script>
+        <!-- Swiper JS -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
+        <!-- Initialize Swiper -->
+        <script>
+          var swiper = new Swiper(".mySwiper", {
+            effect: "cards",
+            grabCursor: true,
+          });
+        </script>
 </body>
 </html>
