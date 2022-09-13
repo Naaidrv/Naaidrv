@@ -1,66 +1,19 @@
-body {
-  margin: 0;
-  font-family: "Poppins", sans-serif;
-  --color-bg: #fff;
-}
-/*body.dark-theme{
-    --color-bg:rgb(12, 12, 12);
-    --color-texto:#0fa5d3;
-    --color-icons:#FFFFFF;
-    --color-nav:rgb(blue);
-    --color-ntex:#FFFFFF;
-}*/
-
-nav {
-  background-color: var(--color-nav);
-  position: sticky;
-  top: 0;
-  z-index: 1;
-}
-
-nav > ul {
-  color: var(--color-nav);
-
-  max-width: 1140px;
-  margin: auto;
-  padding: 20px 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-li {
-  list-style: none;
-  padding: 10px 15px;
-}
-
-.item_nav {
-  color: var(--color-ntex);
-  font-size: 20px;
-  letter-spacing: -0.35px;
-  text-decoration: none;
-}
-
-.item_nav:hover {
-  color: #0fa5d3;
-  transition: 0.15s ease-out;
-}
-
 @media (prefers-color-scheme: dark) {
   body {
     --color-bg: rgb(12, 12, 12);
-    --color-texto: #0fa5d3;
+    --color-text: #0fa5d3;
     --color-icons: #fff;
-    --color-nav: rgb(12, 12, 12);
-    --color-ntex: #ffffff;
+    --color-nav: rgb(179, 7, 7);
+    --color-tex: #ffffff;
     --color-bbg: yellow;
   }
 
   body.light-theme {
     --color-bg: #fff;
-    --color-texto: #0fa5d3;
+    --color-text: #0fa5d3;
     --color-icons: #000;
-    --color-nav: rgb(255, 255, 255);
-    --color-ntex: #000000;
+    --color-nav: rgb(143, 19, 19);
+    --color-tex: #000000;
     --color-bbg: #1b1313;
   }
 }
@@ -74,6 +27,82 @@ h1 {
   text-align: center;
   margin-top: -440px;
   font-size: 60px;
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  --color-bg: #fff;
+}
+/*body.dark-theme{
+    --color-bg:rgb(12, 12, 12);
+    --color-texto:#0fa5d3;
+    --color-icons:#FFFFFF;
+    --color-nav:rgb(blue);
+    --color-ntex:#FFFFFF;
+  }*/
+  
+  .navbar{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  .navbar a{
+    color: var(--color-tex);
+  }
+
+  .navbar span{
+    color: var(--color-texto);
+  }
+  
+  .navbar button{
+    background-color: var(--color-texto);
+  }
+
+.navbar> ul {
+  color: var(--color-nav);
+  max-width: 1140px;
+  margin: auto;
+  padding: 20px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+  padding: 10px 15px;
+}
+
+.nav-link {
+  color: var(--color-ntex);
+  font-size: 20px;
+  letter-spacing: -0.35px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #0fa5d3;
+  transition: 0.15s ease-out;
+}
+
+
+
+
+/*Parte del banner*/
+.start{
+  display: flex;
+  background: url("/img/BNRV.png") no-repeat center;
+  width: 100%;
+  background-color: black;
+  height: 100vh;
+  color: #fff;
+  min-height: 500px;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: 'Century Gothic', sans-serif;
 }
 
 #text0 {
