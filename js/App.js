@@ -32,7 +32,7 @@ if(locals === 'dark'){
     icon.classList.toggle('fa-sun');
     icon.classList.toggle('fa-moon');    
 } else if(locals === 'light'){
-    icon.classList.toggle('fa-moon');
     icon.classList.toggle('fa-sun');
+    icon.classList.toggle('fa-moon');
 }
 })

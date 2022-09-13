@@ -1,19 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+html{
+  scroll-behavior: smooth;
+}
+/*Barra de Scroll*/
+::-webkit-scrollbar {
+  width: 10px;
+  display: none;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #0fa5d3bd;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0fa5d3bd;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
-    --color-bg: rgb(12, 12, 12);
+    --color-bg: #111111;
     --color-text: #0fa5d3;
     --color-icons: #fff;
-    --color-nav: rgb(179, 7, 7);
-    --color-tex: #ffffff;
+    --color-nav: #111111;
+    --color-tex: #252525;
     --color-bbg: yellow;
-  }
-
-  body.light-theme {
-    --color-bg: #fff;
+    /* 
+        --color-bg: rgb(204, 11, 11);
     --color-text: #0fa5d3;
     --color-icons: #000;
     --color-nav: rgb(143, 19, 19);
-    --color-tex: #000000;
+    --color-tex: #282929;
+    --color-bbg: #1b1313;
+    */
+  }
+
+  body.light-theme {
+    --color-bg: #dadada;
+    --color-text: #0fa5d3;
+    --color-icons: #000;
+    --color-nav: #dadada;
+    --color-tex: #282929;
     --color-bbg: #1b1313;
   }
 }
@@ -32,8 +66,8 @@ h1 {
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  --color-bg: #fff;
 }
+
 /*body.dark-theme{
     --color-bg:rgb(12, 12, 12);
     --color-texto:#0fa5d3;
@@ -43,22 +77,24 @@ body {
   }*/
   
   .navbar{
-    background-color: black;
+    background-color: var(--color-nav);
     position: sticky;
     top: 0;
     z-index: 1;
   }
   
   .navbar a{
-    color: var(--color-tex);
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
   }
 
   .navbar span{
-    color: var(--color-texto);
+    color: var(--color-text);
   }
   
   .navbar button{
-    background-color: var(--color-texto);
+    background-color: white;
   }
 
 .navbar> ul {
@@ -88,16 +124,13 @@ li {
   transition: 0.15s ease-out;
 }
 
-
-
-
 /*Parte del banner*/
 .start{
   display: flex;
   background: url("/img/BNRV.png") no-repeat center;
   width: 100%;
-  background-color: black;
-  height: 100vh;
+  background-color: var(--color-bg);
+  height: 90vh;
   color: #fff;
   min-height: 500px;
   background-size: cover;
@@ -105,8 +138,37 @@ li {
   font-family: 'Century Gothic', sans-serif;
 }
 
+.start .max-width{
+  width: 100%;
+  display: flex;
+}
+.start .max-width .row{
+  margin-right: 0;
+}
+
+.start .start-content{
+  margin-top: 227px;
+}
+
+.start .start-content #text-1{
+  font-size: 27px;
+}
+.start .start-content #text-2{
+  font-size: 75px;
+  /*font-weight: 600;*/
+  margin-left: -3px;
+}
+.start .start-content #text-3{
+  font-size: 40px;
+  margin: 5px 0;
+}
+.start .start-content #text-3 span{
+  color: #0fa5d3;
+  font-weight: 500;
+}
+
 #text0 {
-  color: var(--color-texto);
+  color: var(--color-text);
   text-align: center;
   margin-top: -1px;
   font-size: 16px;
@@ -136,7 +198,6 @@ li {
 
 #btnMO {
   color: var(--color-bbg);
-  margin-top: 180px;
   font-size: 26px;
   margin-left: 130px;
 }
@@ -169,7 +230,7 @@ li {
 
 .soy {
   font-family: "Poppins", sans-serif;
-  color: var(--color-texto);
+  color: var(--color-text);
   font-size: 32px;
   padding-top: 4px;
   text-align: center;
