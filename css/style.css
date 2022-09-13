@@ -84,7 +84,7 @@ body {
   }
   
   .navbar a{
-    color: white;
+    color: var(--color-icons);
     font-size: 30px;
     text-decoration: none;
   }
@@ -113,7 +113,7 @@ li {
 }
 
 .nav-link {
-  color: var(--color-ntex);
+  color: var(--color-tex);
   font-size: 20px;
   letter-spacing: -0.35px;
   text-decoration: none;
@@ -151,14 +151,17 @@ li {
 }
 
 .start .start-content #text-1{
+  color: var(--color-icons);
   font-size: 27px;
 }
 .start .start-content #text-2{
+  color: var(--color-icons);
   font-size: 75px;
   /*font-weight: 600;*/
   margin-left: -3px;
 }
 .start .start-content #text-3{
+  color: var(--color-icons);
   font-size: 40px;
   margin: 5px 0;
 }
