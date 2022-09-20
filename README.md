@@ -12,7 +12,7 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaidrv&layout=compact)](https://github.com/Naaidrv/github-readme-stats)
 
-<h2>💻 Languages: </h2>
+<h2>💻 Languages & Frameworks: </h2>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/42756212/188987712-ed297250-e455-4a5b-a786-867ffdd98bd2.png" alt="C#" width="45" height="45"/>
 <img src=https://user-images.githubusercontent.com/42756212/188988147-9a4fbd60-7850-4f61-a452-a09f12028474.png alt="Visual Basic" width="45" height="45"/>
