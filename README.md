@@ -51,35 +51,72 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 
 <h2>🛠 Tools: </h2>
 <p align="left">
+<a href="https://code.visualstudio.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</a>
+<a href="https://es.wikipedia.org/wiki/Bash">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+</a>
+<a href="https://www.arduino.cc/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="45" height="45"/>
+</a>
+<a href="https://docs.github.com/es">
 <img src="https://user-images.githubusercontent.com/42756212/188984448-ce8b1b0d-dfde-4750-b9ff-627634f653de.png" alt="Github" width="45" height="45"/>  
+</a>
+<a href="https://www.adobe.com/mx/products/aftereffects.html">
 <img src="https://user-images.githubusercontent.com/42756212/188987078-d3398c9a-547b-4cae-aade-d782962c8547.png" alt="After Effects" width="45" height="45"/>
+</a>
+<a href="https://www.adobe.com/mx/products/xd.html">
 <img src="https://user-images.githubusercontent.com/42756212/188986881-499479fc-ab6a-4454-9d51-2b376ddf33d6.png" alt="Adobe XD" width="45" height="45"/>
+</a>
+<a href="https://www.adobe.com/mx/products/photoshop.html">
 <img src="https://user-images.githubusercontent.com/42756212/188986413-16324661-3e7b-4c9d-9c6b-a967870e16e6.png" alt="Adobe Photoshop" width="45" height="45"/>
+</a>
+<a href="https://www.figma.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+</a>
+<a href="https://about.appsheet.com/home/">
 <img src="https://user-images.githubusercontent.com/42756212/191321054-9cb370e2-82e1-4da6-b38c-e04843f417f4.png" alt="AppSheet" width="45" height="45"/>
+</a>
+<a href="https://developers.google.com/apps-script">
 <img src="https://user-images.githubusercontent.com/42756212/191319306-85627975-4a9d-4290-b5c2-06ec60a67770.png" alt="Google Apps Script" width="45" height="45"/>
+</a>
+<a href="https://firebase.google.com/?hl=es">
 <img src="https://user-images.githubusercontent.com/42756212/188992124-4e2ec695-9e07-4ae2-a340-d7a913705256.png" alt="Firebase" width="45" height="55"/>
+</a>
+<a href="https://www.microsoft.com/es-mx/sql-server/sql-server-2019">
 <img src="https://user-images.githubusercontent.com/42756212/188989570-71e26ee1-2f87-43f2-af1f-4f02448b94d4.png" alt="SQL Server" width="45" height="45"/>
+</a>
+<a href="https://www.mysql.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-
+</a>
 </p>
 
 <h2>🧐 To learn: </h2>
 <p align="left">
+<a href="https://es.reactjs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+</a>
+<a href="https://vuejs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.JS" width="45" height="45"/>
+</a>
+<a href="https://nextjs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="45" height="45"/>
+</a>
+<a href="https://threejs.org/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="ThreeJS" width="45" height="45"/>
+</a>
+<a href="https://www.mongodb.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" width="45" height="45"/>
+</a>
+<a href="https://www.docker.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="45" height="45"/>
+</a>
 </p>
 
 <h2>🎧 Let's play some music: </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 # Heey! 😄
