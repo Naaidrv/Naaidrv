@@ -14,18 +14,39 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 
 <h2>💻 Languages & Frameworks: </h2>
 <p align="left">
-<img src="https://user-images.githubusercontent.com/42756212/188987712-ed297250-e455-4a5b-a786-867ffdd98bd2.png" alt="C#" width="45" height="45"/>
-<img src=https://user-images.githubusercontent.com/42756212/188988147-9a4fbd60-7850-4f61-a452-a09f12028474.png alt="Visual Basic" width="45" height="45"/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/42756212/188987712-ed297250-e455-4a5b-a786-867ffdd98bd2.png" alt="C#" width="45" height="45"/></a>
+<a href="https://es.wikipedia.org/wiki/Visual_Basic">
+<img src=https://user-images.githubusercontent.com/42756212/188988147-9a4fbd60-7850-4f61-a452-a09f12028474.png alt="Visual Basic" width="45" height="45"/></a>
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45"/>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+</a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="CSS" width="45" height="45"/>
+</a>
+<a href="https://www.php.net/docs.php">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+</a>
+<a href="https://getbootstrap.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+</a>
+<a href="https://nodejs.org/es/about/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node JS" width="45" height="45"/>
+</a>
+<a href="https://jquery.com/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="JQuery" width="45" height="45"/>
+</a>
+<a href="https://dart.dev/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+</a>
+<a href="https://flutter.dev/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+</a>
 </p>
 
 <h2>🛠 Tools: </h2>
