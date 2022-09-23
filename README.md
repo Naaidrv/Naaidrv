@@ -62,7 +62,7 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="45" height="45"/>
 </a>
 <a href="https://docs.github.com/es">
-<img src="https://user-images.githubusercontent.com/42756212/188984448-ce8b1b0d-dfde-4750-b9ff-627634f653de.png" alt="Github" width="45" height="45"/>  
+<img src="https://user-images.githubusercontent.com/42756212/192025686-568b3257-f653-40da-a0f3-1b872fabb551.png" alt="Github" width="45" height="45"/>  
 </a>
 <a href="https://www.adobe.com/mx/products/aftereffects.html">
 <img src="https://user-images.githubusercontent.com/42756212/188987078-d3398c9a-547b-4cae-aade-d782962c8547.png" alt="After Effects" width="45" height="45"/>
