@@ -64,6 +64,9 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 <a href="https://docs.github.com/es">
 <img src="https://user-images.githubusercontent.com/42756212/192025686-568b3257-f653-40da-a0f3-1b872fabb551.png" alt="Github" width="45" height="45"/>  
 </a>
+<a href="https://vercel.com/">
+<img src="https://user-images.githubusercontent.com/42756212/193125447-ae3fe391-5088-4ef3-99eb-60d6c6fc4bc9.png" alt="Vercel" width="45" height="45"/>
+</a>
 <a href="https://www.adobe.com/mx/products/aftereffects.html">
 <img src="https://user-images.githubusercontent.com/42756212/188987078-d3398c9a-547b-4cae-aade-d782962c8547.png" alt="After Effects" width="45" height="45"/>
 </a>
