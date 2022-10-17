@@ -120,10 +120,14 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 
 <h2>🎧 Let's play some music: </h2>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- Novatorem theme
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?
+uid=22ecvxjvqabd4qazwz36ytnfa&redirect=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 # Heey! 😄
 
 ### Estoy aprendiendo algo nuevo ... 💻
