@@ -120,6 +120,7 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 
 <h2>🎧 Let's play some music: </h2>
 
+
 [![Spotify](https://novatorem-novatorem.vercel.app/api/spotify/?background_color=transparent&border_color=transparent)](https://open.spotify.com/user/22ecvxjvqabd4qazwz36ytnfa)
 
 <!--
