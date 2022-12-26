@@ -118,13 +118,8 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 </a>
 </p>
 
-<h2>🎧 Let's play some music: </h2>
-
-
-
-
-
 <!--
+<h2>🎧 Let's play some music: </h2>
 [![Spotify](https://novatorem-two-wine.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/22ecvxjvqabd4qazwz36ytnfa)
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22ecvxjvqabd4qazwz36ytnfa)](https://open.spotify.com/user/22ecvxjvqabd4qazwz36ytnfa)
