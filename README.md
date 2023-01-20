@@ -10,8 +10,8 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 * ⚡ Fun fact: If I were a dinosaur, I would be a Tragaraptor 🌮🦖.
 * 📬 Do you want to collaborate with me: <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">naaidvelazquez@gmail.com</a>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Naaidrv&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaidrv&layout=compact&theme=cobalt)](https://github.com/Naaidrv/github-readme-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Naaidrv&theme=dark)](https://git.io/streak-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaidrv&layout=compact&theme=cobalt)](https://github.com/Naaidrv/github-readme-stats)
 
 <h2>💻 Languages & Frameworks: </h2>
 <p align="left">
