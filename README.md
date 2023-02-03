@@ -30,6 +30,9 @@ I am a UI/UX Designer and Frontend Developer curious to learn in the world of we
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="CSS" width="45" height="45"/>
 </a>
+<a href="https://angular.io/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/>
+</a>
 <a href="https://www.php.net/docs.php">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
 </a>
