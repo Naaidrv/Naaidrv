@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/42756212/188967450-5c5ee2a6-6fa4-4bdd-9240-3f0f231b4349.png)
+![banner](https://github.com/user-attachments/assets/c126fdac-51f7-43a7-b61a-a3600c88e63e)
+
 
 <h1>🙋‍♂️ About me 🙋‍♂️</h1>
 
